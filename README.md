@@ -42,6 +42,7 @@ Dopo l'esecuzione dello script, otterrai questa struttura:
  │   ├── App.tsx
  │   ├── App.module.scss
  │   ├── index.tsx
+ │   ├── declaration.d.ts
  ├── 📁 public/
  │   ├── index.html
  ├── 📁 dist/ (generato da Webpack)
@@ -49,6 +50,7 @@ Dopo l'esecuzione dello script, otterrai questa struttura:
  ├── tsconfig.json
  ├── webpack.config.js
  ├── setup-react.sh
+ ├── styles.scss.d.ts
 ```
 
 ## 📦 Script disponibili
