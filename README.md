@@ -15,7 +15,7 @@ Assicurati di avere installato:
 1. **Scarica lo script**
 
    ```bash
-   curl -O https://raw.githubusercontent.com/tuo-repo/setup-react.sh
+   [curl -O https://raw.githubusercontent.com/tuo-repo/setup-react.sh]
    ```
 
 2. **Rendi lo script eseguibile**
